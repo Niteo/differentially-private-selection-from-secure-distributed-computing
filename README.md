@@ -2,7 +2,8 @@
 
 This repo contains code to measure two different benchmarks: utility (test the 'DP error'), and runtime and communication (tests the efficiency of the MPC protocol).
 
-The benchmarks depend on the datasets 'ADULTFRANK', 'HEPTH', 'MEDCOST', 'PATENT', and 'SEARCHLOGS' provided by DPBench.
+The benchmarks depend on the datasets 'ADULTFRANK', 'HEPTH', 'MEDCOST', 'PATENT', and 'SEARCHLOGS' provided by DPBench:
+https://github.com/dpcomp-org/dpcomp_core/tree/master/dpcomp_core/datafiles/1D
 
 ## Utility benchmarks
 
