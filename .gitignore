@@ -1,0 +1,6 @@
+## Source code to ignore
+miniconda*
+*.ipynb_checkpoints
+
+# Mac specific
+*.DS_Store
